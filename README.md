@@ -1,9 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # wild-oasis-react-supabase
+
+A react app that talks to supabase backend in getting the Booking details, cabin details and checkin and checkout features.
+A beautiful dashboard that give lot of statistics about the bookings, revenue with filtering capabilities.
